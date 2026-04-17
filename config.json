@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "windows_url": "https://github.com/240Bravo/Devfor-Project/releases/tag/v1.0.0-Initial-Release",
+  "windows_url": "https://github.com/240Bravo/Devfor-Project/releases/download/v1.0.0-Initial-Release/Blufor.v1.0.0-alpha.zip",
   "windows_exe": "Game.exe",
   "linux_url": "https://example.com/download/linux.zip",
   "linux_exe": "Game.x86_64",
